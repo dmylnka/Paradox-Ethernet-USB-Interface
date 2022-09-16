@@ -5,7 +5,7 @@ This device forwards Alarm serial data to a Ethernet/IP/Telnet Session. Furtherm
 In other Words 307USB and IP150 combined in a single low cost design based on Arduino Mega 2560. 
 
 
-# Paradox-Ethernet-USB-Interface
+# GuideLines
 
 * USB Connection to Panel (usb to serial implemented on Paradox Interface) similar function to 307USB.Requires 120-Ohm Resistor between Reset and 5V.
 * DHCP functionality and OLED display to inform IP address and Serial Settings.
