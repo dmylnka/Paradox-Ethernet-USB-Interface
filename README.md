@@ -11,7 +11,8 @@ In other Words 307USB and IP150 combined in a single low cost design based on Ar
 * DHCP functionality and OLED display to inform IP address and Serial Settings.
 * Static IP addressing is recommended.
 * Up to 3 multiple Connection.
-* Telnet to Port 23 to show device CLI.
+* Telnet to Port 24 to show device CLI and perform configuration.
+* Device Transfers Paradox Serial Data to Telnet Port 23.
 * Settings stored to internal EEPROM.
 * Serial Baud rate is configurable to support SP and EVO series Panels.
 * OLED Display for convenient use , as informs for device IP address and Serial Port Settings.
