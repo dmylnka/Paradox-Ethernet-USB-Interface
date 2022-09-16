@@ -33,3 +33,8 @@ In other Words 307USB and IP150 combined in a single low cost design based on Ar
 # 3D-Printed Case
 
 ![image](https://user-images.githubusercontent.com/76626380/190814457-73fad078-21e9-47f0-9071-795ff6cb9239.png)
+
+# Assembly 
+
+![image](https://user-images.githubusercontent.com/76626380/190819670-00192294-3180-4eac-907c-06dd0f9b58e4.png)
+
