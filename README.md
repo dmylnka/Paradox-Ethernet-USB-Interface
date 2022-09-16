@@ -38,3 +38,11 @@ In other Words 307USB and IP150 combined in a single low cost design based on Ar
 
 ![image](https://user-images.githubusercontent.com/76626380/190819670-00192294-3180-4eac-907c-06dd0f9b58e4.png)
 
+
+# Tested - Verified 
+
+* Paradox SP5500
+* Paradox SP65
+* Paradox SP4000
+* Paradox EVOHD
+
